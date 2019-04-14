@@ -1,8 +1,8 @@
-#Pig Game
+#Pig Game#
 ***
-##Autor: Sergei Korablev
+##Autor: Sergei Korablev##
 ***
-####GAME RULES:
+###GAME RULES:###
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
@@ -11,12 +11,12 @@
 ***
 Перед установкой зависимостей и запуском проекта убедитесь, что у вас установлена последняя версия Node.js & NPM, а так же последняя версия Gulp
 ***
-####Чтобы развернуть проект необходимо:
+####Чтобы развернуть проект необходимо:####
 $ git clone git@github.com:SergioBateau/Pig-Game.git
 $ cd Pig-Game
 $ npm i
 ***
-####Чтобы запустить скрипт необходимо:
+####Чтобы запустить скрипт необходимо:####
 $ npm run gulp
 
 

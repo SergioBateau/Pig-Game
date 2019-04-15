@@ -1,4 +1,6 @@
 # Pig Game #
+ссылка на GitHubPages: 
+https://sergiobateau.github.io/Pig-Game/dist/
 
 ## Autor: Sergei Korablev ##
 
